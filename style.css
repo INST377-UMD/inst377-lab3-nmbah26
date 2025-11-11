@@ -60,7 +60,7 @@ input[type = "text"] {
   width: 60%;
   transition: width 0.3s ease;
 }
-input[type = "text"]: focus {
+input[type = "text"]:focus {
   width: 80%;
 }
 input[type = "submit"] {
@@ -83,7 +83,7 @@ select {
 }
 footer p {
   margin: 0;
-  font-size: 0.9rem:
+  font-size: 0.9rem;
 }
 
   
